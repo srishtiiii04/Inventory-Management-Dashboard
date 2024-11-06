@@ -1,4 +1,4 @@
-![alt text](https://ineuron.ai/images/ineuron-logo.png)
+
 
 # Inventory Data Analysis
 
